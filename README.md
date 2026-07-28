@@ -2,7 +2,7 @@
 
 Upload any PDF, ask questions in plain English, get grounded answers with page-level citations.
 
-## Project Structure
+## Project Structur
 
 ```
 docuchat/
