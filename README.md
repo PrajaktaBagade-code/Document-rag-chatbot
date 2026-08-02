@@ -13,7 +13,6 @@ docuchat/
 ├── requirements.txt
 └── .env.example     # Copy to .env and fill in your keys
 ```
-
 ## Setup
 
 ```bash
